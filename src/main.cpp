@@ -1,8 +1,6 @@
 //
 // Created by FanBig on 2023/5/14.
 //
-//# pragma once
-
 #include "CreatHuffmanTree.h"
 #include "EncodeHuffmanTree.h"
 #include "DecodeHuffmanTree.h"
