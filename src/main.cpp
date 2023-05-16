@@ -1,9 +1,12 @@
 //
 // Created by FanBig on 2023/5/14.
 //
-# pragma once
+//# pragma once
 
-#include "includes.h"
+#include "CreatHuffmanTree.h"
+#include "EncodeHuffmanTree.h"
+#include "DecodeHuffmanTree.h"
+#include "RandomHuffmanTree.h"
 
 int main() {
     char data[] = {'A', 'B', 'C', 'D', 'E'};

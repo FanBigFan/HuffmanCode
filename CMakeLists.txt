@@ -18,4 +18,4 @@ add_executable(HuffmanCode
         src/RandomHuffmanTree.cpp
         include/RandomHuffmanTree.h
         #        src/mainTest.cpp
-        include/includes.h)
+        )

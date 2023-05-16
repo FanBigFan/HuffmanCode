@@ -5,7 +5,11 @@
 #ifndef DATASTRUCTURE_CREATHUFFMANTREE_H
 #define DATASTRUCTURE_CREATHUFFMANTREE_H
 
-#include "includes.h"
+#include "HuffmanTreeNode.h"
+
+#include <vector>
+
+using namespace std;
 
 class CreatHuffmanTree {
 public:

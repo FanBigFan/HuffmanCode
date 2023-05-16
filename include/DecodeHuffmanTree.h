@@ -5,7 +5,11 @@
 #ifndef HUFFMANCODE_DECODEHUFFMANTREE_H
 #define HUFFMANCODE_DECODEHUFFMANTREE_H
 
-#include "includes.h"
+#include "HuffmanTreeNode.h"
+
+#include <string>
+
+using namespace std;
 
 class DecodeHuffmanTree {
 public:

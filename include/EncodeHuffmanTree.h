@@ -5,7 +5,12 @@
 #ifndef HUFFMANCODE_ENCODEHUFFMANTREE_H
 #define HUFFMANCODE_ENCODEHUFFMANTREE_H
 
-#include "includes.h"
+#include "HuffmanTreeNode.h"
+
+#include <string>
+#include <iostream>
+
+using namespace std;
 
 class EncodeHuffmanTree {
 public:

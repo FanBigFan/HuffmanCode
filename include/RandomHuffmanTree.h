@@ -5,7 +5,14 @@
 #ifndef HUFFMANCODE_RANDOMHUFFMANTREE_H
 #define HUFFMANCODE_RANDOMHUFFMANTREE_H
 
-#include "includes.h"
+#include "CreatHuffmanTree.h"
+
+#include <iostream>
+#include <ctime>
+
+#define MAX_SIZE 10
+
+using namespace std;
 
 class RandomHuffmanTree {
 public:
